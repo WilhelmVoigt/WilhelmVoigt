@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to my repository!
 
-<!--
-**WilhelmVoigt/WilhelmVoigt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a psychology master's graduate with an interest in data science.
 
-Here are some ideas to get you started:
+Projects I have worked on so far:
+  Programming an Associative Inference Task in Matlab using Psychtoolbox.
+  Analysing data from an episodic memory task battery in Matlab.
+  Rearranging data from a long format into wide format in Matlab.
+  Analysing data from a positive psychological intervention with multiple imputations in SPSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current interests:
+  Gaining experience in data science. 
+  Producing content about current topics in psychological science.
